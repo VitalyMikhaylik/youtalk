@@ -1,0 +1,141 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.li{
+    margin-left: 4x;
+    margin-right: 10px;
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+}
+
+.h3{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+a{
+    margin-right: 4px;
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+}
+
+.button{
+    background-color: #abe4e1;
+    color: #135f5a;
+    border: 0px;
+    border-radius: 3px;
+    padding: 5px 8px 5px 8px;
+}
+
+.img1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 200px;
+}
+
+.img{
+    width: 568px;
+    height: 358px;
+}
+
+.logo{
+    width: 63px;
+    height: 53px;
+}
+
+.h3g{
+    display: flex;
+    flex-direction: row;
+}
+
+.h3a::after{
+    content: " > ";
+}
+
+.section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.sectiong{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.img2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 470px;
+    margin-right: 500px;
+    margin-bottom: 100px;
+}
+
+.img3{
+    width: 386px;
+    height: 315px;
+}
+
+.img4{
+    width: 315px;
+    height: 265px;
+}
+
+.img5{
+    width: 338px;
+    height: 267px;
+}
+
+.button2{
+    background-color: #35b3a9;
+    border: 0px;
+    color: white;
+    padding: 8px 45px 8px 45px;
+    margin-left: 500px;
+}
+
+.footer1{
+    list-style-type: none;
+    margin-top: 100px;
+    color: white;
+}
+
+.footerg{
+    background-color: #2963a3;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+
+.footer2{
+    color: white;
+    list-style-type: none;
+    margin-top: 100px;
+}
+
+input{
+    margin-top: 100px;
+}
